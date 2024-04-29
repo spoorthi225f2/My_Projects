@@ -1,0 +1,1 @@
+It is a card game in which a set of cards marked with the numbers 1, 2, 3, …, 9 is dealt in any order, in the form of a circle. The player begins at the first card and counts around the circle. If the k-th  card has the number k on it, which event is called a hit. The card is removed from the circle and the player begins counting again from 1. 
